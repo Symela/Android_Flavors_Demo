@@ -17,30 +17,25 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    //TODO: 1. add flavorDimensions field with the an appropriate name for your flavors
-    /**
-     * For example flavorDimensions 'color'
-     */
+    flavorDimensions 'color'
 
-    //TODO: 2. add productFlavors block and add at least two flavors
-    /**
-     * productFlavors {*
-     *
-     *      red {
-     *          dimension 'color'
-     *      }
-     *
-     *      green {
-     *          dimension 'color'
-     *      }
-     * }
-     */
+    productFlavors {
 
-    //TODO: Hint -> Go crazy with the names, it's a tutorial! Who cares?
+        red {
+            dimension 'color'
+            applicationId 'com.android.flavorstutorial.red'
+        }
 
-    //TODO: 3. Sync project
+        green {
+            dimension 'color'
+            applicationId 'com.android.flavorstutorial.green'
+        }
 
-    //TODO: 4. Open Build Variants tab and you should be able to choose the flavor you wish to build
+        blue {
+            dimension 'color'
+            applicationId 'com.android.flavorstutorial.blue'
+        }
+    }
 
     buildTypes {
         release {
