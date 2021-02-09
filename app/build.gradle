@@ -17,20 +17,8 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    //TODO: 1. let's add one more dimension to our project. For example let's add "shape" dimension
-    flavorDimensions 'color'
+    flavorDimensions 'color', 'shape'
 
-    //TODO: 2. as well as at least 2 flavors for the shape dimension
-    /**
-     * For example
-     *      circle {
-     *          dimension 'shape'
-     *      }
-     *
-     *      square {
-     *          dimension 'shape'
-     *      }
-     */
     productFlavors {
 
         red {
@@ -43,15 +31,33 @@ android {
             applicationId 'com.android.flavorstutorial.green'
         }
 
+        circle {
+            dimension 'shape'
+        }
+
+        square {
+            dimension 'shape'
+        }
+
     }
 
-    //TODO: 3. Sync project
+    /**
+     * Let's say that we don't want every flavor combination but only red squares and green circles
+     */
+    //TODO: 7. use variantFilter block in order to ignore the flavor combinations that you do not want
 
-    //TODO: 4. Open Build Variants tab and you should see all the possible combinations of color and shape flavors
+    //TODO: 8. add a few more buildTypes and use variantFilter block again in order to have
+    // only two buildTypes per flavor combination (redSquare and greenCircle)
 
-    //TODO: 5. Create one folder for each flavor or flavor combination (redCircle, redSquare, greenCircle and greenSquare) inside app/src folder
+    //TODO: 9. Don't forget to sync your project!
 
-    //TODO: 6. Start customizing your app
+    //TODO: 9. create folder redSquareDebug in app/src,
+    // add strings and drawables in it and run the app once for redSquareDebug
+    // and once for redSquareRelease
+    /**
+     * Hint: make sure that the strings and drawables in app/src/redSquareDebug folder are different
+     * than the ones you have in the other flavors
+     */
 
     buildTypes {
         release {
