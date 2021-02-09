@@ -1,6 +1,8 @@
 # Android Flavors Demo
 A small demo/tutorial on how to create different flavors for your app and customize them however you wish!
 
+You can try the demo app on **tutorial/demo_basic_app** branch before you start building your on.
+
 
 ## Basics
 
