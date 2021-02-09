@@ -42,7 +42,7 @@ android {
 
     //TODO: 4. Open Build Variants tab and you should be able to choose the flavor you wish to build
 
-    //TODO: 5. Create one folder for each flavor you created inside in app/src folder, in order to set the assets for each flavor
+    //TODO: 5. Create one folder for each flavor you created inside app/src folder, in order to set the assets for each flavor
     /**
      * For example app/src/red
      */
