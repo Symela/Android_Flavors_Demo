@@ -17,6 +17,27 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    //TODO: 1. add flavorDimensions field with the an appropriate name for your flavors
+    /**
+     * For example flavorDimensions 'color'
+     */
+
+    //TODO: 2. add productFlavors block and add at least two flavors
+    /**
+     * productFlavors {*
+     *
+     *      red {
+     *          dimension 'color'
+     *      }
+     *
+     *      green {
+     *          dimension 'color'
+     *      }
+     * }
+     */
+
+    //TODO: Hint -> Go crazy with the names, it's a tutorial! Who cares?
+
     buildTypes {
         release {
             minifyEnabled false
