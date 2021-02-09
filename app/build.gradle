@@ -49,7 +49,7 @@ android {
 
     //TODO: 4. Open Build Variants tab and you should see all the possible combinations of color and shape flavors
 
-    //TODO: 5. Create one folder for each flavor or flavor combination (redCircle, redSquare, greenCircle and greenSquare) inside app/src folder
+    //TODO: 5. Create one folder for each flavor inside app/src
 
     //TODO: 6. Start customizing your app
 
