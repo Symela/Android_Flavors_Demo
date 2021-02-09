@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimaryNight">#FFCCFFCC</color>
+    <color name="colorPrimary">#FF55BB55</color>
+    <color name="colorPrimaryVariant">#FF229922</color>
+    <color name="colorSecondary">#FFBBFFBB</color>
+    <color name="colorSecondaryVariant">#FF88FF88</color>
+
+    <color name="background_color">#222222</color>
 </resources>
