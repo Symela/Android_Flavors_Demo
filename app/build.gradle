@@ -38,6 +38,10 @@ android {
 
     //TODO: Hint -> Go crazy with the names, it's a tutorial! Who cares?
 
+    //TODO: 3. Sync project
+
+    //TODO: 4. Open Build Variants tab and you should be able to choose the flavor you wish to build
+
     buildTypes {
         release {
             minifyEnabled false
