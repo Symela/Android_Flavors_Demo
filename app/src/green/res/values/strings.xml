@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- TODO: 7. set a string for the text in your activity_main layout and one for your app name in manifest file
-    For example <string name="text">I'm Greeeeeeen!</string>
-                <string name="app_name">Green App</string> -->
+    <string name="app_name">Green Flavor</string>
 </resources>
