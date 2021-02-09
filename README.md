@@ -15,6 +15,6 @@ You can try the demo app on **tutorial/demo_basic_app** branch before you start 
 
 If you want to take this project one step further, you can try the next steps
 
-**Step 3** -> checkout to **k** branch and follow the TODO steps
+**Step 3** -> checkout to **tutorial/set_double_dimension_flavors** branch and follow the TODO steps
 
-**Step 4** -> checkout to **k** branch and follow the TODO steps
+**Step 4** -> checkout to **tutorial/filter_flavors** branch and follow the TODO steps
