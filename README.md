@@ -4,7 +4,7 @@ A small demo/tutorial on how to create different flavors for your app and custom
 
 ## Basics
 
-**Step 1** -> checkout to **tutorial/add_flavors_to-gradle** branch and and follow the TODO steps
+**Step 1** -> checkout to **tutorial/add_flavors_to_gradle** branch and and follow the TODO steps
 
 **Step 2** -> checkout to **tutorial/experiment_with_assets_per_flavor** branch and and follow the TODO steps
 
