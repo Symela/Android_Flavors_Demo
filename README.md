@@ -9,9 +9,9 @@ You can try the demo app on **tutorial/demo_basic_app** branch before you start 
 
 ## Basics
 
-**Step 1** -> checkout to **tutorial/add_flavors_to_gradle** branch and and follow the TODO steps
+**Step 1** -> checkout to **tutorial/add_flavors_to_gradle** branch and follow the TODO steps
 
-**Step 2** -> checkout to **tutorial/experiment_with_assets_per_flavor** branch and and follow the TODO steps
+**Step 2** -> checkout to **tutorial/experiment_with_assets_per_flavor** branch and follow the TODO steps
 
 
 ## Challenge
