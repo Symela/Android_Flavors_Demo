@@ -4,6 +4,9 @@ A small demo/tutorial on how to create different flavors for your app and custom
 You can try the demo app on **tutorial/demo_basic_app** branch before you start building your on.
 
 
+![demo flavors](https://github.com/Symela/Android_Flavors_Demo/blob/develop/demo%20flavors/readme_all_flavors.png)
+
+
 ## Basics
 
 **Step 1** -> checkout to **tutorial/add_flavors_to_gradle** branch and and follow the TODO steps
